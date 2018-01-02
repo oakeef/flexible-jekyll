@@ -40,7 +40,7 @@ I think, for me, the most powerful thing that It does is show you that the real 
 
 The Disaster Artist is a weird one. In one hand I think it stands really well on it's own and doesn't require any previous knowledge of The Room or Tommy Wiseau. In the other hand I think it really adds to the experience to have at least seen some clips from the room beforehand. This one is a movie about the making of one of the worlds strangest movies and you can really tell it was a labour of love by the people involved. The Disaster Artist gives you a story of friendship and betrayal and a weird alien man who just wants to be famous.
 
-Here's how I know this movie is not just for fans of The Room, I went to see Wonder (this movie is a rollercoaster of emotions) with my Mom and when we were leaving she saw a poster for The Disaster Artist and told me she had seen a trailer for it and was really interesting in seeing it. So I think, even if you haven't seen The Room, that you should go check this one out. It's fun, and funny and a great behind the scenes into the world of Tommy Wiseau.
+Here's how I know this movie is not just for fans of The Room, I went to see Wonder (this movie is a rollercoaster of emotions) with my Mom and when we were leaving we saw a poster for The Disaster Artist and she told me about seeing the trailer for it and that she was really interested in seeing it. So I think, even if you haven't seen The Room, that you should go check this one out. It's fun, and funny and a great behind the scenes into the world of Tommy Wiseau.
 
 
 
