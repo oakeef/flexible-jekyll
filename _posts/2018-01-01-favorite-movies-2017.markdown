@@ -32,7 +32,7 @@ Now I have to admit that as a car person this movie was especially fun for me ju
 
 I will admit I have never read the novel or watched the original tv mini-series, nor am I a big fan or horror (I am a big wuss and frighten easily), but It was just phenomenal. This movie is a perfect combination of coming of age, mystery and horror with just a little addition of cosmic weirdness. It has some seriously powerful scenes and it builds up some really powerful characters. You really feel for and empathize with them. Mix that in with a seriously terrifying monster that feeds on your fear and you've got something.
 
-I think, for me, the most powerful thing that It does is show you that the real monsters are not shapeshifting clowns that try to eat you, although that is terrifying, but people. People like the bully who takes things too far, the parent that suffocates their child (not literally) and the sexual predators that live in out midst. I'm happy this movie did so well financially and I cannot wait for the continuation of the story.
+I think, for me, the most powerful thing that It does is show you that the real monsters are not shapeshifting clowns that try to eat you, although that is terrifying; but people. People like the bully who takes things too far, the parent that suffocates their child (not literally) and the sexual predators that live in our midst. I'm happy this movie did so well financially and I cannot wait for the continuation of the story.
 
 
 
