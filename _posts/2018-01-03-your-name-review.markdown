@@ -9,7 +9,7 @@ title: "Your Name | Review"
 description: A Review of the 2016 anime Your Name.
 
 # Post Image
-img: movies2017-1.jpeg
+img: yournameposter.jpg
 
 # Movie Information
 director: Makoto Shinkai
