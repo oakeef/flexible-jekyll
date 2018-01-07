@@ -13,11 +13,11 @@ repository: oakeef/oakeef.github.io
 author: Evan
 author-img: 6433506.jpeg
 about-author: I watch a lot of movies and wanted to start keeping track of my thoughts on them.
-facebook: # add your Facebook handle
+# facebook: # add your Facebook handle
 twitter: stuffwithevan
 github: oakeef # add your Github handle
-linkedin: # add your Linkedin handle
-email: # add your Email address
+# linkedin: # add your Linkedin handle
+email: oakeef@gmail.com
 
 # Disqus
 discus-identifier: # add your discus identifier
@@ -30,7 +30,7 @@ markdown: kramdown
 plugins_dir:
   - jekyll-sitemap
   - jekyll-paginate
-  - jemoji
+
 
 paginate: 8
 paginate_path: "/page/:num"
