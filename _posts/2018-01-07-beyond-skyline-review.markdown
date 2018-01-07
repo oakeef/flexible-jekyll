@@ -3,7 +3,7 @@
 layout: review
 
 # Review Title
-title: "Beyond Skyline"
+title: "Beyond Skyline | Review"
 
 # Review Description
 description: A sequel to the 2010 SciFi film Skyline. A man must fight the aliens invading earth to avenge his son. He must also protect mysterious girl that the aliens are after.
