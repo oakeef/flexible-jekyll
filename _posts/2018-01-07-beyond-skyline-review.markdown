@@ -53,6 +53,6 @@ This movie has a dumb story, uninteresting characters and martial arts just to h
 
 
 ## Conclusion | 4/9
-Beyond Skyline is an awful followup to Skyline. It really just feels like someone who likes martial arts bought the rights to Skyline and decided they wanted to cast their favorite actors and make them fight the aliens in hand to hand combat. It's the first time i've ever seen a science fiction movie with martial arts elements and I think I know why I've never seen one like that before.
+Beyond Skyline is an awful followup to Skyline. It really just feels like someone who likes martial arts bought the rights to Skyline and decided they wanted to cast their favorite actors and make them fight the aliens in hand to hand combat. It's the first time i've ever seen an alien invasion movie with martial arts elements and I think I know why I've never seen one like that before.
 
 It's really too bad because Skyline was actually a pretty interesting take on an alien invasion movie and stands on it's own really well. It never needed this sequel and I kinda wish I had never seen it. Also they show bloopers during the credits, and this movie is not a comedy in any way. So that should tell you something.
