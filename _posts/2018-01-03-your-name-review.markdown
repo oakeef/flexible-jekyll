@@ -44,12 +44,14 @@ Your Name has a good score and good sounds design. There is nothing overly speci
 
 I am giving this movie a 2/3 for the Hear Score. Now I know you are going to think I'm crazy for giving the same score as See after I had so much praise for the visuals and not really so much for the audio. The score of a 2 means that it is good, however a score of 1 means that there must be something wrong with it and there really isn't anything wrong with this one. It just doesn't do anything to make it really stand out.
 
+
 ## Feel | 3/3
 This is the biggest strength of this movie. At first you think it's just a standard body swap movie, but then it just hits you with this twist and the whole second half takes you on a rollercoaster of emotions. I don't want to spoil too much because I think it's important to have as much of an unbiased mind as possible when going into a new movie, so I wont give away too much. There is just this deeply emotional moment that hits you harder that you expect, mainly due to the slow build-up of emotions towards our two protagonists that you don't even notice is happening.
 
 Your Name tells a very powerful romantic tale. It hits all the beats you want in a romantic drama. It shows you these characters and slowly eases you in to caring about them, it gives you a sense that you know where it is all going to end up and then it takes you for a twist you don't see coming. After that twist is a rollercoaster ride of ups and downs. It even fakes you out a few times to really pull on your heart strings, but in the end resolves in a way you can be satisfied with.
 
 Before the second half of this movie I would have given it a 1/3 for just following the same old tropes and being kind of predictable. But, man, after that twist and second half it deserves a perfect 3/3 score and I can see why this movie was so well received.
+
 
 ## Conclusion | 7/9
 To wrap all of this up, Your Name is a beautiful story wrapped in a nice looking anime. I'm going to come back to what I side before about it being a rollercoaster. It starts slow just climbing you up and up, but you don't even notice, then it hits the drop and takes you for a wild ride around some loops and when you are done with this ride your heart will probably be beating a little faster. You might even have a few tears in your eyes.
