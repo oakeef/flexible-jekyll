@@ -3,10 +3,13 @@
 layout: review
 
 # Review Title
-title: "Your Name | Review"
+title: "Your Name"
 
 # Review Description
 description: A Review of the 2016 anime Your Name.
+
+# Post type NO NEED TO CHANGE THIS
+posttype: review
 
 # Post Image
 img: yournameposter.jpg

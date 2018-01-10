@@ -12,7 +12,10 @@ layout: main
     <div class="wrap-content">
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
-        <div class="page-date"><span><b>Director:</b> {{page.director}}     <b>Release:</b> {{page.release_date}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+
+        <div class="page-director"><span><b>Director:</b> {{page.director}}   <br>  <b>Release Year:</b> {{page.release_date}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+        <br>
+        <div class="page-posttype"><span><b>{{page.posttype}}</b>&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
       {{page.content | markdownify}}
       <div class="page-footer">

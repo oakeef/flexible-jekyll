@@ -3,10 +3,13 @@
 layout: review
 
 # Review Title
-title: "Happy Death Day | Review"
+title: "Happy Death Day"
 
 # Review Description
 description: A slasher film about a university student that must re-live her birthday over and over until she finds out who her killer is.
+
+# Post type NO NEED TO CHANGE THIS
+posttype: review
 
 # Post Image
 img: happy-death-day-poster.png

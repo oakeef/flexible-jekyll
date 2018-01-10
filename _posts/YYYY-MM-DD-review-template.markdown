@@ -8,6 +8,9 @@ title: "Movie Title"
 # Review Description
 description: Description of movie
 
+# Post type NO NEED TO CHANGE THIS
+posttype: review
+
 # Post Image
 img: posterimage.jpg
 

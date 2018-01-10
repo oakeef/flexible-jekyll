@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Favorite Movies 2017"
-date: 2018-01-01 15:00:20 +0300
+posttype: compilation
 description: An unordered list of some of my favorite movies from 2017.
 img: movies2017-1.jpeg
 ---
