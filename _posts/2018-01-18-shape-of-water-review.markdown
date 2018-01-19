@@ -38,7 +38,7 @@ see_content: |
 
   <p>Now, set design and props aside, this movie does some very interesting things with all the camera work. There are so many scenes that are unexpected and powerful. One in particular is of Elisa and the creature dancing in a daydream scene. The scene is shot like one of the old movies Elisa watches with her next door neighbour. This scene is shot in black and white and is so out of this world due to it being a daydream.</p>
 
-  <p>One last thing I want to give praise to is the awesome practical effects of the creature design. The amphibious humanoid creature is played by Doug Jones and is mostly a real suit with some cg added here and there depending on the scene. It looks very real and Doug Jones does an incredible job bringing ti to life</p>
+  <p>One last thing I want to give praise to is the awesome practical effects of the creature design. The amphibious humanoid creature is played by Doug Jones and is mostly a real suit with some cg added here and there depending on the scene. It looks very real and Doug Jones does an incredible job bringing it to life</p>
 
   <p>I'm giving The Shape of Water a perfect See score of 3 and it really deserves it. This movie does so much with what you see that it could probably be a silent film just due to all the character, emotion and detail injected into every scene. On top of that, every shot of this movie is just put together with so much care and thought. It really is a visual masterpiece.</p>
 
