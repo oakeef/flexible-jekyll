@@ -12,7 +12,11 @@ repository: oakeef/oakeef.github.io
 # Author Settings
 author: Evan
 author-img: 6433506.jpeg
-about-author: I watch a lot of movies and wanted to start keeping track of my thoughts on them.
+about-author:
+  I watch a lot of movies and wanted to wanted to review them differently than I have seen done before.
+about-scores:
+  Each review has a See, Hear and Feel section and each section is scored out of 3.
+  1 being bad, 2 being good, and 3 being exceptional.
 # facebook: # add your Facebook handle
 twitter: stuffwithevan
 github: oakeef # add your Github handle
