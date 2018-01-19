@@ -56,6 +56,6 @@ feel_content: |
   <p>Before the second half of this movie I would have given it a 1/3 for just following the same old tropes and being kind of predictable. But, man, after that twist and second half it deserves a perfect 3/3 score and I can see why this movie was so well received.</p>
 
 conclusion_content: |
-  <p>To wrap all of this up, Your Name is a beautiful story wrapped in a nice looking anime. I'm going to come back to what I side before about it being a rollercoaster. It starts slow just climbing you up and up, but you don't even notice, then it hits the drop and takes you for a wild ride around some loops and when you are done with this ride your heart will probably be beating a little faster. You might even have a few tears in your eyes.</p>
+  <p>To wrap all of this up, Your Name is a beautiful story wrapped in a nice looking anime. I'm going to come back to what I said before about it being a rollercoaster. It starts slow just climbing you up and up, but you don't even notice, then it hits the drop and takes you for a wild ride around some loops and when you are done with this ride your heart will probably be beating a little faster. You might even have a few tears in your eyes.</p>
 
 ---
