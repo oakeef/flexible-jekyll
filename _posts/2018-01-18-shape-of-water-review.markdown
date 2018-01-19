@@ -6,7 +6,7 @@ layout: review
 title: "The Shape of Water"
 
 # Review Description
-description: Description of movie
+description: The Shape of Water is Guillermo del Toro's new dark romantic fairy tale about a mute custodian that falls in love with an amphibious humanoid.
 
 # Post type NO NEED TO CHANGE THIS
 posttype: review
