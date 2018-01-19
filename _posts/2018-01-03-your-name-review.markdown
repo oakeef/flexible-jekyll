@@ -24,7 +24,7 @@ genres:
 release_date: 2016
 
 # Movie Scores
-see_score: 3
+see_score: 2
 hear_score: 2
 feel_score: 3
 
