@@ -16,7 +16,18 @@ layout: main
       <p>{{ post.content | strip_html | truncatewords: 40 }}</p>
     {% endif %}
     <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+
+    {% if post.posttype == "review" %}
+      {% assign new_var = post.intro_content
+        | append: ' ' | append: post.see_content
+        | append: ' ' | append: post.hear_content
+        | append: ' ' | append: post.feel_content
+        | append: ' ' | append: post.conclusion_content %}
+        <span class="post-words">{% capture words %}{{ new_var | strip_html | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+    {% else %}
+      <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+    {% endif %}
+
   </div>
 </article>
 {% endfor %}
