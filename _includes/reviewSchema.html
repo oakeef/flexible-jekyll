@@ -1,0 +1,39 @@
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "name": "{{page.title}}",
+        "dateCreated": "{{page.release_date}}",
+        "image": "{{site.url}}{{ "/assets/img/" | append : page.img}}",
+        "director": {
+            "@type": "Person",
+            "name": "{{page.director}}"
+        },
+        "sameAs": [
+        	"https://www.google.ca"
+        ]
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Evan",
+        "sameAs": [
+        	"https://www.twitter.com/stuffwithevan",
+        	"https://instagram.com/stuffwithevan"
+        ]
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "{{page.total_score}}",
+        "worstRating": "0",
+        "bestRating": "9"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "MoviesWithEvan"
+      },
+      "datePublished": "{{page.date}}",
+      "description": "{{page.description}}"
+    }
+</script>
