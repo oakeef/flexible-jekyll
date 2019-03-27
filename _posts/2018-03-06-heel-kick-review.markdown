@@ -21,6 +21,7 @@ genres:
  - sports
  - mockumentary
 release_date: 2018
+imdb: tt5482362
 
 # Movie Scores
 see_score: 3
